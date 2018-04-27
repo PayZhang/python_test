@@ -1,0 +1,5 @@
+#ignore the file [csv}
+*.csv
+
+#ignore the directory [Debug]
+Debug
